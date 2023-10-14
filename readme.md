@@ -1,3 +1,14 @@
+## Disclaimer
+
+This is not an official project.
+
+The GPL requires us all to release our code when we make changes that we then distribute, so this is an unofficial fork of the last FOSS version.
+
+**Interesting links**:
+
+[List of potentially partially / totally FOSS changes](https://github.com/directus/directus/pulls?q=is%3Apr+created%3A%3C2023-04-26+merged%3A%3E%3D2023-04-26+) which had merges delayed until after the adoption of BSL.
+
+
 <p align="center"><img alt="Directus Logo" src="https://user-images.githubusercontent.com/522079/158864859-0fbeae62-9d7a-4619-b35e-f8fa5f68e0c8.png"></p>
 
 <br />
